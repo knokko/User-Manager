@@ -1,4 +1,4 @@
-package nl.knokko.bo.server.user;
+package nl.knokko.usermanager;
 
 import java.io.File;
 import java.io.IOException;

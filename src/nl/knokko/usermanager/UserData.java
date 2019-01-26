@@ -1,4 +1,4 @@
-package nl.knokko.bo.server.user;
+package nl.knokko.usermanager;
 
 import nl.knokko.util.bits.BitInput;
 import nl.knokko.util.bits.BitOutput;
